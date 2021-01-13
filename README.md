@@ -1,4 +1,5 @@
-# Mystock A ecommerce store
+# Mystock A ecommerce store using Node-express-mongo-socket.io
+
 ## Link:
 https://mystock-in.herokuapp.com/
 ## Installation
